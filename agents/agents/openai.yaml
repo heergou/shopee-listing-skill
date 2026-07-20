@@ -1,0 +1,4 @@
+interface:
+  display_name: "Shopee Listing Automation"
+  short_description: "Automate Shopee seller login, listing, and delisting"
+  default_prompt: "Use $shopee-listing to run the Shopee seller automation workflow for login, listing, and delisting."
